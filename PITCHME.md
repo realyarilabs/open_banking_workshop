@@ -129,7 +129,7 @@ from one payment provider, at the request of a user to a payment account held at
 another payment provider.
 ---
 
-![PISP](assets/pisp-diagram.svg)
+![PISP](assets/pisp-diagram.png)
 ---
 
 ## What can AISPs do?
@@ -137,8 +137,8 @@ another payment provider.
 An AISP offers an online service to provide consolidated information (data) 
 on one or more payment accounts held by a user who has one or more accounts at 
 one or more payment providers.
-
-![AISP](assets/aisp-diagram.svg)
+---
+![AISP](assets/aisp-diagram.png)
 ---
 
 # DEMO
