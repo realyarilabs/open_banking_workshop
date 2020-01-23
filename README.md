@@ -1,2 +1,2 @@
-# blockchain-workshop-2
-Second blockchain workshop @ Yari
+# Open Banking workshop 
+First initial Open Banking Workshop @ Yari
