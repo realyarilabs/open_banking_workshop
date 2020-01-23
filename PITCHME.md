@@ -152,3 +152,11 @@ one or more payment providers.
 
 ---
 
+# List of Open Banking Providers
+
+* [tink.com](http://www.tink.com/)
+* [plaid.com](http://plaid.com/)
+* [truelayer.com](https://truelayer.com/)
+
+---
+
