@@ -17,7 +17,7 @@
 
 ---
 
-# Open Banking
+## Open Banking
 
 Open Banking is a UK initiative. 
 It aims to open bank data access and standardise technical specifications 
@@ -26,15 +26,13 @@ better access and control over their data.
 
 ---
 
-# Open Banking
+## Open Banking
 This includes the ability for them to share their financial data across 
 organisations other than banks.
 
-More information can be found at  [Open Banking](https://www.openbanking.org.uk/) .
-
 ---
 
-# Open Banking and PSD2
+## Open Banking and PSD2
 Open Banking and PSD2 are complementary regulatory initiatives.
 
 The Open Banking initiative is the first industry wide effort to 
@@ -42,20 +40,20 @@ deliver some of the benefits of PSD2.
 
 ---
 
-# Open Banking and PSD2
+## Open Banking and PSD2
 This is a good news as it increases competition and lowers barriers to entry. 
 Meaning, more choice, affordability, variety of services, and options for adoption.
 
 ---
 
-# PSD2 - Payment Services Directive 2
+## PSD2 - Payment Services Directive 2
 
 The Second Payments Services Directive (“PSD2”) is the latest revolutionary 
 regulatory framework that will be operational in the UK and the European Union (“EU”) 
 
 ---
 
-# PSD2 - Payment Services Directive 2
+## PSD2 - Payment Services Directive 2
 
 The legislation Aims  to:
 
@@ -66,7 +64,7 @@ The legislation Aims  to:
 
 ---
 
-# PSD2 - Payment Services Directive 2
+## PSD2 - Payment Services Directive 2
 
 **PSD2 also introduced two new types of regulated service providers:**
 
