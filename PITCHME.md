@@ -36,26 +36,29 @@ better access and control over their data.
 This includes the ability for them to share their financial data across 
 organisations other than banks.
 
-+++
+---
 
-## How did this started ? 
-In the begining there was GDPR !
+@snap[h1-yellow]
+# How did this started ? 
+@snapend
 
-+++
+In the begining there was GDPR
+
+---
 
 ## Open Banking & PSD2
 
-They are complementary regulatory initiatives.
+Complementary regulatory initiatives
 
-The Open Banking initiative is the first industry wide effort to 
-standardise and deliver some of the benefits of PSD2. 
+Open Banking initiative is the first industry wide effort to 
+standardise and deliver some of the benefits of PSD2
 
 +++
 
 ## Open Banking and PSD2
 
 This increases competition and lowers barriers to entry for Fintechs. 
-More choice, affordability, variety of services, and options for adoption.
+More choice, affordability, variety of services, and options for adoption
 
 ---
 
@@ -74,7 +77,7 @@ regulatory framework that will be operational in the UK and the European Union (
 
 ## PSD2 
 
-The legislation Aims  to:
+The legislation Aims to:
 
 * lower the entry barriers
 * protect consumers
@@ -90,7 +93,7 @@ The legislation Aims  to:
 * Payment Initiation Service Providers (PISPs)
 * Account Information Service Providers (AISPs)
 
-More info:  [European Commission](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en) website.
+PISPs and AISPs are classified as Third Party Providers (TPPs)
 
 ---
 
@@ -109,11 +112,6 @@ like a direct debit, to a third party beneficiary.
 ---
 
 ## What can PISPs and AISPs do?
-PISPs and AISPs are classified as Third Party Providers (TPPs) under PSD2.
-
----
-
-## What can PISPs and AISPs do?
 
 A PISP can provide a service to initiate a payment order (payment information) 
 from one payment provider, at the request of a user to a payment account held at 
@@ -126,10 +124,6 @@ another payment provider.
 An AISP offers an online service to provide consolidated information (data) 
 on one or more payment accounts held by a user who has one or more accounts at 
 one or more payment providers.
-
----
-
-## Do you need to be regulated?
 
 ---
 
@@ -151,6 +145,14 @@ one or more payment providers.
 # DEMO
 
 [Demo App](https://demo.truelayer.com/)
+
+---
+
+
+## Can we access Bank Open APIs directly ? 
+
+We need to be regulated or use a  regulated TPP provider exposing an API
+
 ---
 
 # List of TPPs API providers 
@@ -161,4 +163,6 @@ one or more payment providers.
 * 50 more...
 
 ---
+
+# That's all for now :)
 
