@@ -3,45 +3,24 @@
 
 ---
 
-## Yarilabs on social media
-* [twitter/yarilabs](https://twitter.com/yarilabs)
-* [instagram.com/yarilabs](https://instagram.com/yarilabs)
-* [medium/yarilabs](https://medium.com/yarilabs)
-
----
-
-### Emanuel Mota - @emota7
-
-Founder of Yari Labs
-
-emanuel@yarilabs.com 
-
-
----
-@snap[h2-yellow]
-## Blockchain Workshop #1
-@snapend
-
-#### Smart Contracts Programming
----
-
+@snap[h2-blue]
 # Open Banking & PSD2 
-
+@snapend
 ---
 
-# Achemist
-
+# Achemist Intro
 
 ---
 
 # Open Banking
-## Making UK banks more transparent
-## A Primer
-Open Banking is a UK initiative driven by the Competition and Markets Authority. It aims to open data access and standardise technical specifications across the finance industry so that consumers and businesses in the UK have better access and control over their data. This includes the ability for them to share their financial data across organisations other than banks.
 
-The initiative became fully operational in January 2018.
+Open Banking is a UK initiative driven by the Competition and Markets Authority. 
+It aims to open data access and standardise technical specifications across the 
+finance industry so that consumers and businesses in the UK have better access 
+and control over their data. 
 
-TrueLayer is working with financial institutions across the UK to provide easy access to the OpenBanking platform. Our APIs are Open Banking compliant.
+This includes the ability for them to share their financial data across 
+organisations other than banks.
 
 More information can be found at  [Open Banking](https://www.openbanking.org.uk/) .
 
