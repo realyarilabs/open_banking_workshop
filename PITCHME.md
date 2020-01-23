@@ -32,17 +32,23 @@ organisations other than banks.
 
 ---
 
-## Open Banking and PSD2
-Open Banking and PSD2 are complementary regulatory initiatives.
+## How did this started ? 
+In the begining there was GDPR !
+
+---
+## Open Banking & PSD2
+
+They are complementary regulatory initiatives.
 
 The Open Banking initiative is the first industry wide effort to 
-deliver some of the benefits of PSD2. 
+standardise and deliver some of the benefits of PSD2. 
 
 ---
 
 ## Open Banking and PSD2
-This is a good news as it increases competition and lowers barriers to entry. 
-Meaning, more choice, affordability, variety of services, and options for adoption.
+
+This increases competition and lowers barriers to entry for Fintechs. 
+More choice, affordability, variety of services, and options for adoption.
 
 ---
 
@@ -71,7 +77,7 @@ The legislation Aims  to:
 * Payment Initiation Service Providers (PISPs)
 * Account Information Service Providers (AISPs)
 
-More information can be found in the  [European Commission](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en) website.
+More info:  [European Commission](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en) website.
 
 ---
 
@@ -111,7 +117,6 @@ one or more payment providers.
 ---
 
 ## Do you need to be regulated?
-Most Fintechs in the UK have to determine whether they’re engaging in AIS or PIS.
 
 ---
 
