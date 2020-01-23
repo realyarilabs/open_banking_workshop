@@ -3,8 +3,8 @@
 
 ---
 
-@snap[h2-yellow]
-# Fintech  Revolution 
+@snap[h1-blue]
+# Fintech Revolution 
 @snapend
 
 ## Open Banking & PSD2  
