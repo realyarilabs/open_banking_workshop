@@ -159,8 +159,9 @@ one or more payment providers.
 
 ---
 
-
+@snap[h2-yellow]
 ## Can we access Bank Open APIs directly ? 
+@snapend
 
 We need to be regulated or use a  regulated TPP provider exposing an API
 
@@ -171,7 +172,7 @@ We need to be regulated or use a  regulated TPP provider exposing an API
 * [tink.com](http://www.tink.com/)
 * [plaid.com](http://plaid.com/)
 * [truelayer.com](https://truelayer.com/)
-* 50 more...
+* many more...
 
 ---
 
