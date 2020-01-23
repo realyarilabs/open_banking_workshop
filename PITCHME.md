@@ -3,7 +3,7 @@
 
 ---
 
-@snap[h2-blue]
+@snap[h2-yellow]
 # Open Banking & PSD2 
 @snapend
 ---
@@ -19,6 +19,9 @@ It aims to open data access and standardise technical specifications across the
 finance industry so that consumers and businesses in the UK have better access 
 and control over their data. 
 
+---
+
+# Open Banking
 This includes the ability for them to share their financial data across 
 organisations other than banks.
 
@@ -30,8 +33,6 @@ More information can be found at  [Open Banking](https://www.openbanking.org.uk/
 Open Banking and  [PSD2](https://truelayer.com/psd2/)  are complementary regulatory initiatives.
 
 The Open Banking initiative is the first industry wide effort to deliver some of the benefits of PSD2. For UK businesses and consumers, this is a good news- this increases competition and lowers barriers to entry. Meaning, more choice, affordability, variety of services, and options for adoption.
-
-
 
 ---
 
