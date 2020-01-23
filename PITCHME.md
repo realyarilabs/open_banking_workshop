@@ -138,21 +138,6 @@ one or more payment providers.
 
 ---
 
-## Acronyms
-
-* **FCA** 	- Financial Conduct Authority (the UK Regulator)
-* **PSR** 	- Payment Services Regulator (UK Regulator looking at payment 	services specifically; a sub-set of the FCA).
-* **PSU** 	- Payment Service User (End User)
-* **AISP** 	- Account Information Service Providers
-* **PISP**	- Payment Initiation Service Providers
-* **ASPSP** - Account Servicing Payment Service Provider (Ex: Banks and Other Financial Institutions)
-* **EBA** 	- European Banking Authority
-* **RTS** 	- Regulatory Technical Standards (EBA has oversight on this)
-* **PSP** 	- Payment Service Providers
-* **TPPs** 	- Third Party Providers (of which AISP and PISP are categories)
-
----
-
 # DEMO
 
 [Demo App](https://demo.truelayer.com/)
@@ -178,3 +163,19 @@ We need to be regulated or use a  regulated TPP provider exposing an API
 
 # That's all for now :)
 
+---
+
+## Acronyms
+
+* **FCA** 	- Financial Conduct Authority (the UK Regulator)
+* **PSR** 	- Payment Services Regulator (UK Regulator looking at payment 	services specifically; a sub-set of the FCA).
+* **PSU** 	- Payment Service User (End User)
+* **AISP** 	- Account Information Service Providers
+* **PISP**	- Payment Initiation Service Providers
+* **ASPSP** - Account Servicing Payment Service Provider (Ex: Banks and Other Financial Institutions)
+* **EBA** 	- European Banking Authority
+* **RTS** 	- Regulatory Technical Standards (EBA has oversight on this)
+* **PSP** 	- Payment Service Providers
+* **TPPs** 	- Third Party Providers (of which AISP and PISP are categories)
+
+---
