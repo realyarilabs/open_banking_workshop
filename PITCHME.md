@@ -4,10 +4,10 @@
 ---
 
 @snap[h2-yellow]
-
-# Open Banking & PSD2 
-
+## Open Banking & PSD2 
 @snapend
+
+#### GDPR 
 
 ---
 
