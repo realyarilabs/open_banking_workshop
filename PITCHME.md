@@ -4,8 +4,11 @@
 ---
 
 @snap[h2-yellow]
+
 # Open Banking & PSD2 
+
 @snapend
+
 ---
 
 # Achemist Intro
