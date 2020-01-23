@@ -17,6 +17,12 @@
 
 ---
 
+@snap[h1-yellow]
+# Open Banking
+@snapend
+
++++
+
 ## Open Banking
 
 Open Banking is a UK initiative. 
@@ -24,18 +30,19 @@ It aims to open bank data access and standardise technical specifications
 across the finance industry so that consumers and businesses in the UK have 
 better access and control over their data. 
 
----
++++
 
 ## Open Banking
 This includes the ability for them to share their financial data across 
 organisations other than banks.
 
----
++++
 
 ## How did this started ? 
 In the begining there was GDPR !
 
----
++++
+
 ## Open Banking & PSD2
 
 They are complementary regulatory initiatives.
@@ -43,7 +50,7 @@ They are complementary regulatory initiatives.
 The Open Banking initiative is the first industry wide effort to 
 standardise and deliver some of the benefits of PSD2. 
 
----
++++
 
 ## Open Banking and PSD2
 
@@ -52,14 +59,20 @@ More choice, affordability, variety of services, and options for adoption.
 
 ---
 
-## PSD2 - Payment Services Directive 2
+@snap[h1-yellow]
+# PSD2 - Payment Services Directive 2
+@snapend
+
++++
+
+## PSD2 
 
 The Second Payments Services Directive (“PSD2”) is the latest revolutionary 
 regulatory framework that will be operational in the UK and the European Union (“EU”) 
 
----
++++
 
-## PSD2 - Payment Services Directive 2
+## PSD2 
 
 The legislation Aims  to:
 
@@ -68,11 +81,11 @@ The legislation Aims  to:
 * encourage lower prices, and
 * promote the development and use of innovative online and mobile payments.
 
----
++++
 
-## PSD2 - Payment Services Directive 2
+## PSD2 
 
-**PSD2 also introduced two new types of regulated service providers:**
+**PSD2  introduced 2 new types of regulated service providers:**
 
 * Payment Initiation Service Providers (PISPs)
 * Account Information Service Providers (AISPs)
@@ -132,4 +145,10 @@ one or more payment providers.
 * **RTS** 	- Regulatory Technical Standards (EBA has oversight on this)
 * **PSP** 	- Payment Service Providers
 * **TPPs** 	- Third Party Providers (of which AISP and PISP are categories)
+
+---
+
+# DEMO
+
+---
 
