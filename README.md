@@ -1,2 +1,2 @@
-# open_banking_workshop
-Open Banking Workshop and the amazing possibilities for fintech
+# blockchain-workshop-2
+Second blockchain workshop @ Yari
