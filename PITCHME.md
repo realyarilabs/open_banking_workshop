@@ -122,20 +122,22 @@ like a direct debit, to a third party beneficiary.
 
 ---
 
-## What can PISPs and AISPs do?
+## What can PISPs do?
 
 A PISP can provide a service to initiate a payment order (payment information) 
 from one payment provider, at the request of a user to a payment account held at 
 another payment provider.
 
+![PISP](assets/pisp-diagram.svg)
 ---
 
-## What can PISPs and AISPs do?
+## What can AISPs do?
 
 An AISP offers an online service to provide consolidated information (data) 
 on one or more payment accounts held by a user who has one or more accounts at 
 one or more payment providers.
 
+![AISP](assets/aisp-diagram.svg)
 ---
 
 # DEMO
