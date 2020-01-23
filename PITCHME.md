@@ -127,6 +127,7 @@ like a direct debit, to a third party beneficiary.
 A PISP can provide a service to initiate a payment order (payment information) 
 from one payment provider, at the request of a user to a payment account held at 
 another payment provider.
+---
 
 ![PISP](assets/pisp-diagram.svg)
 ---
